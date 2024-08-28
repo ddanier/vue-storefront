@@ -156,7 +156,7 @@
     "vue-loader": "^15.4.2",
     "vue-ssr-webpack-plugin": "^3.0.0",
     "vue-template-compiler": "^2.6.6",
-    "webpack": "^4.25.1",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.1.2",
     "webpack-dev-middleware": "^3.4.0",
